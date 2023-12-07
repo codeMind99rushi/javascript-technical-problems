@@ -1,1 +1,1 @@
-# area-of-triangle
+# javascript-technical-problems
